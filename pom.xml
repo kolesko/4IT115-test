@@ -7,9 +7,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.github.kolesko</groupId>
-
+	
 	<artifactId>test_case</artifactId>
 	<version>0.0.1</version>
+	<name>testCase</name>	
 	<dependencies>
 
 		<dependency>
