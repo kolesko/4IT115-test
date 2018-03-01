@@ -10,6 +10,7 @@
 
 	<artifactId>test_case</artifactId>
 	<version>0.0.1</version>
+	<description>testovaci priklad</description>
 	<dependencies>
 
 		<dependency>
