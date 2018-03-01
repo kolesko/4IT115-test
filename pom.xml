@@ -6,7 +6,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.saucelabs</groupId>
+	<groupId>com.github.kolesko</groupId>
 
 	<artifactId>test_case</artifactId>
 
